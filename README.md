@@ -43,17 +43,24 @@
 ![img](https://img.shields.io/badge/Visual%20Studio%20Code-050F2C?logo=visualstudiocode) ![img](https://img.shields.io/badge/Visual%20Studio-050F2C?logo=visualstudio) ![img](https://img.shields.io/badge/Atom-050F2C?logo=atom) ![img](https://img.shields.io/badge/IntelliJ-050F2C?logo=intelliJIDEA) ![img](https://img.shields.io/badge/Vim-050F2C?logo=vim) ![img](https://img.shields.io/badge/Docker-050F2C?logo=docker)<br>
 ![img](https://img.shields.io/badge/MySQL-050F2C?logo=mysql) <br><br>
 
+<p aligin="center">
+  <a href="https://github.com/XerosLab">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XerosLab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XerosLab&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XerosLab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=XerosLab&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+
 
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=XerosLab&theme=juicyfresh&no-bg=true" />
+</p>
+
+
+
+
 
 
 
