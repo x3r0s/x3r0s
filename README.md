@@ -40,7 +40,7 @@
 ![img](https://img.shields.io/badge/HTML-050F2C?logo=html5)![img](https://img.shields.io/badge/CSS-050F2C?logo=css3)![img](https://img.shields.io/badge/Markdown-050F2C?logo=markdown)<br>
 ![img](https://img.shields.io/badge/Linux-050F2C?logo=linux)![img](https://img.shields.io/badge/Apache-050F2C?logo=apache)![img](https://img.shields.io/badge/NginX-050F2C?logo=nginx)<br>
 ![img](https://img.shields.io/badge/Git-050F2C?logo=git)![img](https://img.shields.io/badge/Github-050F2C?logo=github)![img](https://img.shields.io/badge/Gitlab-050F2C?logo=gitlab)![img](https://img.shields.io/badge/AWS-050F2C?logo=amazonaws)![img](https://img.shields.io/badge/Vercel-050F2C?logo=vercel)<br>
-![img](https://img.shields.io/badge/Visual Studio Code-050F2C?logo=visualstudiocode)![img](https://img.shields.io/badge/Visual Studio-050F2C?logo=visualstudio)![img](https://img.shields.io/badge/Atom-050F2C?logo=atom)![img](https://img.shields.io/badge/IntelliJ-050F2C?logo=intelliJIDEA)![img](https://img.shields.io/badge/Vim-050F2C?logo=vim)![img](https://img.shields.io/badge/Docker-050F2C?logo=docker)<br>
+![img](https://img.shields.io/badge/VisualStudioCode-050F2C?logo=visualstudiocode)![img](https://img.shields.io/badge/VisualStudio-050F2C?logo=visualstudio)![img](https://img.shields.io/badge/Atom-050F2C?logo=atom)![img](https://img.shields.io/badge/IntelliJ-050F2C?logo=intelliJIDEA)![img](https://img.shields.io/badge/Vim-050F2C?logo=vim)![img](https://img.shields.io/badge/Docker-050F2C?logo=docker)<br>
 ![img](https://img.shields.io/badge/MySQL-050F2C?logo=mysql)<br>
 
 
