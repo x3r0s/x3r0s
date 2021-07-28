@@ -29,9 +29,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ 아직은 공부중입니다. 😊
-✔ Python, JavaScript를 중점적으로 공부하고있습니다.
-✔ 웹 프론트, 백엔드 모두 다룰 수 있는 개발자가 목표입니다.
+✔ 아직은 공부중입니다. 😊<br>
+✔ Python, JavaScript를 중점적으로 공부하고있습니다.<br>
+✔ 웹 프론트, 백엔드 모두 다룰 수 있는 개발자가 목표입니다.<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working Stack***
 
