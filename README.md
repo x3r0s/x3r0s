@@ -36,7 +36,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working Stack***
 
 ![img](https://img.shields.io/badge/Python-050F2C?logo=python) ![img](https://img.shields.io/badge/Django-050F2C?logo=django) ![img](https://img.shields.io/badge/Flask-050F2C?logo=flask)<br>
-![img](https://img.shields.io/badge/JavaScript-050F2C?logo=javascript) ![img](https://img.shields.io/badge/TypeScript-050F2C?logo=typescript) ![img](https://img.shields.io/badge/Node.js-050F2C?logo=node.js) ![img](https://img.shields.io/badge/React-050F2C?logo=node.js)<br>
+![img](https://img.shields.io/badge/JavaScript-050F2C?logo=javascript) ![img](https://img.shields.io/badge/TypeScript-050F2C?logo=typescript) ![img](https://img.shields.io/badge/Node.js-050F2C?logo=node.js) ![img](https://img.shields.io/badge/React-050F2C?logo=react) ![img](https://img.shields.io/badge/Electron-050F2C?logo=electron)<br>
 ![img](https://img.shields.io/badge/HTML-050F2C?logo=html5) ![img](https://img.shields.io/badge/CSS-050F2C?logo=css3) ![img](https://img.shields.io/badge/Markdown-050F2C?logo=markdown)<br>
 ![img](https://img.shields.io/badge/Linux-050F2C?logo=linux) ![img](https://img.shields.io/badge/Apache-050F2C?logo=apache) ![img](https://img.shields.io/badge/NginX-050F2C?logo=nginx) <br>
 ![img](https://img.shields.io/badge/Git-050F2C?logo=git)  ![img](https://img.shields.io/badge/Github-050F2C?logo=github) ![img](https://img.shields.io/badge/Gitlab-050F2C?logo=gitlab) ![img](https://img.shields.io/badge/AWS-050F2C?logo=amazonaws) ![img](https://img.shields.io/badge/Vercel-050F2C?logo=vercel)<br>
