@@ -4,7 +4,7 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=XerosLab&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=0x000613&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
@@ -16,7 +16,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Xeros </h1>
 <h3 align="center">Backend Engineer | Software Engineer </h3>
 <p align="center">
-  Welcome to XerosLab
+  Welcome to 0x000613
 </p>
 </p>
 
@@ -24,7 +24,7 @@
 
 ### 🤝🏻  Connect with Me
 
- [![img](https://img.shields.io/badge/%20-xeros.log@gmail.com%20-red?logo=gmail&logoColor=white)](mailto:xeros.log@gmail.com) [![img](https://img.shields.io/badge/%20-exe.ros%20-red?logo=instagram&logoColor=white)](https://www.instagram.com/exe.ros/) [![img](https://img.shields.io/badge/%20-WooYoungKim%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/kim.wooyoung.501) [![img](https://img.shields.io/badge/@XerosLab-blue?logo=twitter&logoColor=white)](https://twitter.com/@XerosLab) [![img](https://img.shields.io/badge/XerosLab.github.io-grey?logo=github&logoColor=white)](https://www.facebook.com/kim.wooyoung.501)
+ [![img](https://img.shields.io/badge/%20-xeros.log@gmail.com%20-red?logo=gmail&logoColor=white)](mailto:xeros.log@gmail.com) [![img](https://img.shields.io/badge/%20-exe.ros%20-red?logo=instagram&logoColor=white)](https://www.instagram.com/exe.ros/) [![img](https://img.shields.io/badge/%20-WooYoungKim%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/kim.wooyoung.501) [![img](https://img.shields.io/badge/@0x000613-blue?logo=twitter&logoColor=white)](https://twitter.com/@0x000613) [![img](https://img.shields.io/badge/0x000613.github.io-grey?logo=github&logoColor=white)](https://www.facebook.com/kim.wooyoung.501)
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
@@ -46,9 +46,9 @@
 
 ### My Github Status
 <p aligin="center">
-  <a href="https://github.com/XerosLab">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XerosLab&layout=compact&langs_count=8&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XerosLab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/0x000613">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0x000613&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0x000613&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
@@ -57,7 +57,7 @@
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=XerosLab&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=0x000613&theme=juicyfresh&no-bg=true" />
 </p>
 
 
