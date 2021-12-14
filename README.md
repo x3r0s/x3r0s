@@ -24,7 +24,7 @@
 
 ### 🤝🏻  Connect with Me
 
- [![img](https://img.shields.io/badge/%20-xeros.log@gmail.com%20-red?logo=gmail&logoColor=white)](mailto:xeros.log@gmail.com) [![img](https://img.shields.io/badge/%20-exe.ros%20-red?logo=instagram&logoColor=white)](https://www.instagram.com/exe.ros/) [![img](https://img.shields.io/badge/%20-WooYoungKim%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/kim.wooyoung.501) [![img](https://img.shields.io/badge/@0x000613-blue?logo=twitter&logoColor=white)](https://twitter.com/@0x000613) [![img](https://img.shields.io/badge/0x000613.github.io-grey?logo=github&logoColor=white)](https://www.facebook.com/kim.wooyoung.501)
+ [![img](https://img.shields.io/badge/%20-xeros.log@gmail.com%20-red?logo=gmail&logoColor=white)](mailto:xeros.log@gmail.com) [![img](https://img.shields.io/badge/%20-0x000613%20-red?logo=instagram&logoColor=white)](https://www.instagram.com/0x000613/) [![img](https://img.shields.io/badge/%20-WooYoungKim%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/kim.wooyoung.501) [![img](https://img.shields.io/badge/@0x000613-blue?logo=twitter&logoColor=white)](https://twitter.com/@0x000613) [![img](https://img.shields.io/badge/0x000613.github.io-grey?logo=github&logoColor=white)](https://www.facebook.com/kim.wooyoung.501)
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
