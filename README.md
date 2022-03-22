@@ -2,8 +2,7 @@
 ### About Me
 
 ```javascript
-// Who am i?
-const Xeros = {
+const Me = {
     name: 'WooYoung Kim',
     age: 23,
     from: 'Korea',
