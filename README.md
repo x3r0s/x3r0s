@@ -1,3 +1,9 @@
+Pic
+
+### Hi, I am Xeros
+<hr>
+
+Blah blah
 
 ### About Me
 
