@@ -1,9 +1,8 @@
-Pic
+![Xeros Desktop](https://user-images.githubusercontent.com/77450463/159569721-f80c11cf-da7c-4000-9a01-30982d0d645d.jpg)
 
 ### Hi, I am Xeros
-<hr>
 
-Blah blah
+웹개발자 지망생입니다
 
 ### About Me
 
