@@ -12,7 +12,7 @@ const Me = {
     name: 'WooYoung Kim',
     age: 23,
     from: 'Korea',
-    job: 'Developer',
+    job: null,
     Language: ['Python', 'JavaScript']
 };
 ```
