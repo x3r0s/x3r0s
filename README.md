@@ -13,8 +13,38 @@ const Me = {
     Age: 23,
     From: 'Korea',
     Job: null,
-    Language: ['Python', 'JavaScript']
 };
+
+const Skills = {
+    Saas: [
+        'Debian Linux',
+        'Vercel',
+        'Github Action',
+        'CloudFlare'
+    ],
+    Language: [
+        'JavaScript',
+        'Python'
+    ],
+    Framework: {
+        JavaScript: [
+            'node.js'
+        ],
+        Python: {
+            'Django',
+            'Flask',
+        }
+    },
+    Library: {
+        JavaScript: [
+            'React'
+        ],
+        Python: [
+            (Request, bs4, urlib, Selenium),
+            (PyQt5, Tkinter)
+        ]
+    }
+}
 ```
 
 ### My Github Status
