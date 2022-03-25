@@ -9,10 +9,10 @@
 
 ```javascript
 const Me = {
-    name: 'WooYoung Kim',
-    age: 23,
-    from: 'Korea',
-    job: null,
+    Name: 'WooYoung Kim',
+    Age: 23,
+    From: 'Korea',
+    Job: null,
     Language: ['Python', 'JavaScript']
 };
 ```
