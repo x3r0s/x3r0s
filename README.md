@@ -40,8 +40,8 @@ const Skills = {
             'React'
         ],
         Python: [
-            (Request, bs4, urlib, Selenium),
-            (PyQt5, Tkinter)
+            ('Request', 'bs4', 'urlib', 'Selenium'),
+            ('PyQt5', 'Tkinter')
         ]
     }
 }
