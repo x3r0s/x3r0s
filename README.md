@@ -10,7 +10,7 @@
 ```javascript
 const Me = {
     Name: 'WooYoung Kim',
-    DisplayName: 'Xeros',
+    DisplayName: ('Xeros', '0x000613'),
     Age: 23,
     From: 'Korea',
     Job: null,
