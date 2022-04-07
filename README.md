@@ -2,7 +2,6 @@
 
 ### Hi, I am Xeros
 
-웹개발자 지망생입니다.
 관심있는 분야는 리액트, Node.js이며 보안쪽에도 관심이있습니다.
 
 ### About Me
@@ -13,38 +12,18 @@ const Me = {
     DisplayName: ('Xeros', '0x000613'),
     Age: 23,
     From: 'Korea',
-    Job: null,
+    Job: 'FrontEnd Developer',
 };
 
 const Skills = {
-    Saas: [
-        'Debian Linux',
-        'Vercel',
-        'Github Action',
-        'CloudFlare'
-    ],
     Language: [
         'JavaScript',
         'Python'
     ],
-    Framework: {
-        JavaScript: [
-            'node.js'
-        ],
-        Python: {
-            'Django',
-            'Flask',
-        }
-    },
-    Library: {
-        JavaScript: [
-            'React'
-        ],
-        Python: [
-            ('Request', 'bs4', 'urlib', 'Selenium'),
-            ('PyQt5', 'Tkinter')
-        ]
-    }
+    Framework: [
+        'React',
+        'Node.js'
+    ]
 }
 ```
 
