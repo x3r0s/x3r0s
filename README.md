@@ -29,6 +29,8 @@ const Skills = {
 
 ### My Github Status
 
+<a href="https://opgc.me/#/users/0x000613" target="_blank"><img src="https://api.opgc.me/githubs/users/0x000613/tag/?theme=basic" /></a>
+
 <p aligin="center">
   <a href="https://github.com/0x000613">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0x000613&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -44,6 +46,11 @@ const Skills = {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0x000613&theme=juicyfresh&no-bg=true" />
 </p>
+
+### History
+
+- EZEN Academy Student (React, Node.js) 2021.09.27 ~ 2022.03.25
+- Namu Labs Frontend Developer 2022.04.07 ~
 
 
 
