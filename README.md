@@ -30,10 +30,12 @@ const Skills = {
 ### My Github Status
 
 <p aligin="center">
-  <a href="https://github.com/0x000613">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0x000613&layout=compact&langs_count=8&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0x000613&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
+    <a href="https://github.com/0x000613">
+        <a href="https://opgc.me/#/users/0x000613" target="_blank"><img src="https://api.opgc.me/githubs/users/0x000613/tag/?theme=basic" /></a>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0x000613&layout=compact&langs_count=8&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0x000613&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=0x000613&theme=juicyfresh&no-bg=true" />
+    </a>
 </p>
 
 <hr>
