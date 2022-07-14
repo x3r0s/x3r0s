@@ -2,7 +2,12 @@
 
 ### Hi, I am Xeros
 
-관심있는 분야는 리액트, Node.js이며 보안쪽에도 관심이있습니다.
+React, Next.js 프론트엔드 개발자입니다.  
+Web3 파트에 대해 공부중이며, 보안쪽에도 관심이 있습니다.  
+  
+비즈니스 제안은 Email 혹은 Github Issue로 등록해주시면 감사하겠습니다.  
+- Email: xeros.log@gmail.com
+- Issue : https://github.com/0x000613/0x000613/issues
 
 ### About Me
 
@@ -23,6 +28,9 @@ const Skills = {
     Framework: [
         'React',
         'Node.js'
+    ],
+    Library: [
+        'TailwindCSS',
     ]
 }
 ```
