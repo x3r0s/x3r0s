@@ -1,5 +1,3 @@
-![Xeros Desktop](https://user-images.githubusercontent.com/77450463/159569721-f80c11cf-da7c-4000-9a01-30982d0d645d.jpg)
-
 ### Hi, I am WooYoung Kim
 
 React, Next.js 프론트엔드 개발자입니다.  
