@@ -1,37 +1,17 @@
-### Hi, I am WooYoung Kim
+# Who am i
 
-React, Next.js 프론트엔드 개발자입니다.  
-Web3 파트에 대해 공부중이며, 보안쪽에도 관심이 있습니다.  
+Frontend Developer WooYoung Kim
   
-비즈니스 제안은 Email 혹은 Github Issue로 등록해주시면 감사하겠습니다.  
+## Business
 - Email: xeros.log@gmail.com
-- Issue : https://github.com/0x000613/0x000613/issues
+- Github issue : https://github.com/0x000613/0x000613/issues
 
-### About Me
-
-```javascript
-const Me = {
-    Name: 'WooYoung Kim',
-    DisplayName: ('Xeros', '0x000613'),
-    Age: 23,
-    From: 'Korea',
-    Job: 'FrontEnd Developer',
-};
-
-const Skills = {
-    Language: [
-        'JavaScript',
-        'Python'
-    ],
-    Framework: [
-        'React',
-        'Node.js'
-    ],
-    Library: [
-        'TailwindCSS',
-    ]
-}
-```
+## Stack
+- TypeScript
+- JavaScript
+- React, Next.js
+- Node.js
+- Python
 
 ### My Github Status
 
