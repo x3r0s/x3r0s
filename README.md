@@ -19,6 +19,11 @@ https://blog.xeros.dev
 - Node.js
 - Python
 
+### areer
+
+- EZEN Academy Student (React, Node.js) 2021.09.27 ~ 2022.03.25
+- Namu Labs Frontend Developer 2022.04.07 ~ 2022.08.31
+
 ### My Github Status
 
 <p aligin="center">
@@ -42,12 +47,6 @@ https://blog.xeros.dev
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=0x000613&theme=juicyfresh&no-bg=true" />
 </p>
-
-### History
-
-- EZEN Academy Student (React, Node.js) 2021.09.27 ~ 2022.03.25
-- Namu Labs Frontend Developer 2022.04.07 ~ 2022.08.31
-
 
 
 
