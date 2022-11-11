@@ -1,12 +1,12 @@
-# Who am i
+### Who am i
 
 Frontend Developer WooYoung Kim
   
-## Business
+### Business
 - Email: xeros.log@gmail.com
 - Github issue : https://github.com/0x000613/0x000613/issues
 
-## Stack
+### Stack
 - TypeScript
 - JavaScript
 - React, Next.js
