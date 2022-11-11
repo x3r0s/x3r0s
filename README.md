@@ -1,6 +1,12 @@
 ### Who am i
 
 Frontend Developer WooYoung Kim
+
+You can see my portfolio here.
+https://xeros.dev
+
+and Tech blog here
+https://blog.xeros.dev
   
 ### Business
 - Email: xeros.log@gmail.com
