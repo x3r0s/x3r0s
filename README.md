@@ -11,12 +11,10 @@ https://blog.xeros.dev
 - Github issue : https://github.com/0x000613/0x000613/issues
 
 ### Stack
-- TypeScript
-- JavaScript
+- Javascrip, Typescript
 - React, Next.js
 - Node.js
 - django
-
 - Flask
 
 ### Career
