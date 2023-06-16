@@ -1,14 +1,14 @@
 ### Who am i
 
-Frontend Developer WooYoung Kim
+Frontend Developer Dvaid Kim
 
-You can see my portfolio here.
+Portfolio
 https://xeros.dev
 
-and Tech blog here
+Tech blog
 https://blog.xeros.dev
   
-### Business
+### Contact
 - Email: xeros.log@gmail.com
 - Github issue : https://github.com/0x000613/0x000613/issues
 
@@ -17,7 +17,8 @@ https://blog.xeros.dev
 - JavaScript
 - React, Next.js
 - Node.js
-- Python
+- Django
+- Flask
 
 ### Career
 
