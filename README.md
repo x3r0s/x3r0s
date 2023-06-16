@@ -15,7 +15,8 @@ https://blog.xeros.dev
 - JavaScript
 - React, Next.js
 - Node.js
-- Django
+- django
+
 - Flask
 
 ### Career
