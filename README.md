@@ -1,6 +1,4 @@
-### Who am i
-
-Frontend Developer Dvaid Kim
+### Frontend Developer David Kim
 
 Portfolio
 https://xeros.dev
