@@ -1,10 +1,9 @@
 ### Frontend Developer David Kim
 
-Portfolio
-https://xeros.dev
-
-Tech blog
-https://blog.xeros.dev
+- Portfolio
+  https://xeros.dev
+- Tech blog
+  https://blog.xeros.dev
   
 ### Contact
 - Email: xeros.log@gmail.com
