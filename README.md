@@ -1,7 +1,7 @@
 ### Frontend Developer David Kim
 
 - Portfolio
-  https://xeros.dev
+  https://blastdev.net
 - Tech blog
   https://blog.xeros.dev
   
