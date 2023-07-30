@@ -6,8 +6,7 @@
   https://blog.xeros.dev
   
 ### Contact
-- Email xeros.log@gmail.com
-- Github issue https://github.com/0x000613/0x000613/issues
+- Email davidkim@blastdev.net
 
 ### Stack
 - Javascrip, Typescript
