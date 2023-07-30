@@ -30,23 +30,6 @@
     </a>
 </p>
 
-<hr>
-<p align="center">
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git rank
-</p>
-<p align="center">
-    <a href="https://opgc.me/#/users/0x000613" target="_blank"><img src="https://api.opgc.me/githubs/users/0x000613/tag/?theme=basic" /></a>
-</p>
-<p align="center">
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-<br>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=0x000613&theme=juicyfresh&no-bg=true" />
-</p>
-
-
-
 
 
 
