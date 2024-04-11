@@ -1,13 +1,3 @@
-### Frontend Developer David Kim
-
-- Portfolio
-  https://blastdev.net
-- Tech blog
-  https://blog.xeros.dev
-  
-### Contact
-- Email davidkim@blastdev.net
-
 ### Stack
 - Javascrip, Typescript
 - React, Next.js
