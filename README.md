@@ -11,10 +11,10 @@
 #### Frameworks and Libraries
 
 <p align="left">
-  <img src="resource/framework/next.webp" alt="Next.js" height="50" style="vertical-align: middle;"/>
   <img src="resource/framework/nodejs.webp" alt="Node.js" width="50" height="50"/>
   <img src="resource/library/react.webp" alt="React" width="50" height="50"/>
   <img src="resource/framework/tailwindcss.webp" alt="Tailwindcss" width="50" height="50"/>
+  <img src="resource/framework/next.webp" alt="Next.js" height="50" style="vertical-align: middle;"/>
 </p>
 
 #### CI/CD and PaaS
