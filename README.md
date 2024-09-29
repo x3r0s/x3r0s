@@ -25,11 +25,6 @@
   <img src="resource/PaaS/vercel.webp" alt="Vercel" height="50"/>
 </p>
 
-# Career
-
-- EZEN Academy Student (React, Node.js) 2021.09.27 ~ 2022.03.25
-- Namu Labs Frontend Developer 2022.04.07 ~ 2022.08.31
-
 <p aligin="left">
     <a href="https://github.com/0x000613">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=x3r0s&layout=compact&langs_count=8&theme=tokyonight"/>
